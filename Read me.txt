@@ -1,0 +1,2 @@
+la servers que estoy usando es glassfish  pueden usar el tomcat igual  contal que lo tenga
+intalado.
